@@ -1,0 +1,16 @@
+.myButton{
+    width: 100px;
+    height: 100px;
+    font-weight: bold;
+    color:green;
+    font-size: 20px;
+    background-color: tomato;
+
+}
+.style{
+    text-align: center;
+    color: indigo;
+    font-weight: bold;
+    font-size: 50px;
+    font-style: italic;
+}

@@ -1,0 +1,13 @@
+var num1=parseInt(prompt("Enter your first number:"));
+var num2=parseInt(prompt("Enter your second number:"));
+var sum,sub,mul,div,mud;
+sum=num1+num2;
+sub=num1-num2;
+mul=num1*num2;
+div=num1/num2;
+mud=num1%num2;
+document.write("addition is= "+sum+ "<br>");
+document.write("substraction is= "+sub+ "<br>");
+document.write("multiplication is= "+mul+ "<br>");
+document.write(" division is="+div+ "<br>");
+document.write(" reminder is="+mud+ "<br>");
